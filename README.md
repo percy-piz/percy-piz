@@ -79,13 +79,6 @@ Model evaluation         •  Backend systems     •  Production-ready tools
   </tr>
 </table>
 
-## GitHub activity
-
-<div align="center">
-
-![Percy's GitHub stats](https://github-readme-stats.vercel.app/api?username=percy-piz&show_icons=true&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=60A5FA&text_color=E2E8F0)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=percy-piz&layout=compact&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0)
 
 </div>
 
