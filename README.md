@@ -1,9 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4338ca,100:06b6d4&height=230&section=header&text=Percy%20Amoani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI-Focused%20Software%20Engineer%20%7C%20Automation%20%7C%20Intelligent%20Systems&descAlignY=59&descSize=17)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4338ca,100:06b6d4&height=230&section=header&text=Percy%20Amoani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20automation%20%7C%20Intelligent%20Systems&descAlignY=59&descSize=17)
 
-[![Email](https://img.shields.io/badge/Email-percyamoani21%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:percyamoani21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-percy--piz-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/percy-piz)
+[![email](https://img.shields.io/badge/email-percyamoani21%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:percyamoani21@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-percy--amoani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/percy-amoani)
+[![instagram](https://img.shields.io/badge/instagram-%40percy.nk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/percy.nk/)
 
 </div>
 
@@ -78,9 +79,6 @@ Model evaluation         •  Backend systems     •  Production-ready tools
     </td>
   </tr>
 </table>
-
-
-</div>
 
 ## Let's connect
 
