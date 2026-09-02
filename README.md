@@ -1,91 +1,25 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4338ca,100:06b6d4&height=230&section=header&text=Percy%20Amoani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20automation%20%7C%20Intelligent%20Systems&descAlignY=59&descSize=17)
+![Percy Amoani — Software Engineer, AI automation, and Intelligent Systems](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4338ca,100:06b6d4&height=220&section=header&text=Percy%20Amoani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20automation%20%7C%20Intelligent%20Systems&descAlignY=59&descSize=17)
 
-[![email](https://img.shields.io/badge/email-percyamoani21%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:percyamoani21@gmail.com)
-[![linkedin](https://img.shields.io/badge/linkedin-percy--amoani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/percy-amoani)
-[![instagram](https://img.shields.io/badge/instagram-%40percy.nk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/percy.nk/)
+I build and explore intelligent software, agentic workflows, and automation.
 
-</div>
+`AI agents` · `intelligent automation` · `backend systems` · `applied AI`
 
-## Hey, I'm Percy 👋🏿
+<br>
 
-I'm an aspiring software engineer deeply interested in **artificial intelligence, AI automation, and intelligent systems**. I want to build software that does more than respond to inputs—software that can reason over information, automate complex workflows, and help people work more effectively.
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,git&theme=dark" alt="Python, C, C++, Java, JavaScript, HTML, and Git" />
 
-- 🤖 Exploring AI agents, automation, and applied machine learning
-- ⚙️ Interested in reliable, scalable systems that connect AI to real-world workflows
-- 🧠 Developing strong software-engineering fundamentals alongside modern AI skills
-- 🚀 Building toward practical AI products with measurable impact
-- 🤝 Open to collaborating on ambitious, technically challenging projects
+<br><br>
 
-## Areas of focus
+<a href="mailto:percyamoani21@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email Percy Amoani"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/percy-amoani"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="34" height="34" alt="Percy Amoani on LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/percy.nk/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="34" height="34" alt="Percy Amoani on Instagram"></a>
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🤖 AI Engineering</h3>
-      <p>Building intelligent applications that use modern models to solve meaningful problems.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚡ AI Automation</h3>
-      <p>Designing workflows and agents that reduce repetitive work and amplify human capability.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🏗️ Software Systems</h3>
-      <p>Learning to create reliable, maintainable, and scalable software behind great AI products.</p>
-    </td>
-  </tr>
-</table>
+<br><br>
 
-## Tech toolbox
+📸 Photography &nbsp;·&nbsp; ⚽ Soccer &nbsp;·&nbsp; 📺 TV
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8)
-![C](https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=38BDF8)
-![C++](https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=cplusplus&logoColor=38BDF8)
-![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-## What I'm building toward
-
-I'm actively developing projects that demonstrate the full lifecycle of AI-powered software—from data and model integration to APIs, automation, evaluation, deployment, and user experience.
-
-```text
-AI-powered applications  •  Agentic workflows  •  Intelligent automation
-Model evaluation         •  Backend systems     •  Production-ready tools
-```
-
-## Beyond the code
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>📸 Photography</h3>
-      <p>Finding interesting stories, details, and perspectives through a camera.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>⚽ Soccer</h3>
-      <p>Enjoying the game, the competition, and everything that comes with it.</p>
-    </td>
-    <td align="center" width="33%">
-      <h3>📺 TV Shows</h3>
-      <p>Always interested in a great story and looking for the next show to watch.</p>
-    </td>
-  </tr>
-</table>
-
-## Let's connect
-
-Have an opportunity, a project idea, or just want to say hello? Reach me at **[percyamoani21@gmail.com](mailto:percyamoani21@gmail.com)**.
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4338ca,100:06b6d4&height=110&section=footer)
+![Decorative gradient footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4338ca,100:06b6d4&height=100&section=footer)
 
 </div>
