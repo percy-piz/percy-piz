@@ -20,7 +20,7 @@ I build and explore intelligent software, agentic workflows, and automation.
 **Data, design & developer tools**  
 `PostgreSQL` · `Git` · `GitHub` · `LaTeX` · `Figma`
 
-### connect with me
+### Connect with me
 
 <a href="mailto:percyamoani21@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" alt="Email Percy Amoani"></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/percy-amoani"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" height="32" alt="Percy Amoani on LinkedIn"></a>&nbsp;&nbsp;&nbsp;
