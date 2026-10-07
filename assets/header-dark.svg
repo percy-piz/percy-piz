@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Percy Amoani: building AI agents and the cloud systems that run them">
+  <style>
+    .bg     { fill: #0D1117; }
+    .frame  { fill: none; stroke: #21262D; }
+    .ink    { fill: #E6EDF3; }
+    .muted  { fill: #7D8590; }
+    .accent { fill: #F5A524; }
+    .edge   { fill: none; stroke: #30363D; stroke-width: 1.5; }
+    .node   { fill: #0D1117; stroke: #484F58; stroke-width: 1.5; }
+    .label  { fill: #7D8590; font: 500 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: .5px; }
+    .mono   { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans   { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect class="bg" width="1200" height="300" rx="16"/>
+  <rect class="frame" x=".5" y=".5" width="1199" height="299" rx="16"/>
+
+  <!-- left: who -->
+  <g>
+    <text x="64" y="92" class="mono muted" font-size="18">~/percy-piz <tspan class="accent">$</tspan> whoami</text>
+    <rect class="accent cursor" x="287" y="77" width="10" height="19"/>
+  </g>
+  <text x="62" y="164" class="sans ink" font-size="64" font-weight="700" letter-spacing="-1.5">Percy Amoani</text>
+  <text x="64" y="210" class="sans muted" font-size="22">I build AI agents that handle the busywork,</text>
+  <text x="64" y="240" class="sans muted" font-size="22">and I'm learning the cloud to run them <tspan class="accent">well</tspan>.</text>
+
+  <!-- right: the agent loop -->
+  <g>
+    <circle class="edge" cx="1000" cy="150" r="88"/>
+    <path id="loop" d="M1000 62 A88 88 0 1 1 999.9 62" fill="none"/>
+    <circle r="4" class="accent">
+      <animateMotion dur="7s" repeatCount="indefinite"><mpath href="#loop"/></animateMotion>
+    </circle>
+
+    <circle class="node" cx="1000" cy="62"  r="7"/>
+    <circle class="node" cx="1088" cy="150" r="7"/>
+    <circle class="node" cx="1000" cy="238" r="7"/>
+    <circle class="node" cx="912"  cy="150" r="7"/>
+    <circle cx="1000" cy="150" r="5" class="accent" opacity=".9">
+      <animate attributeName="opacity" values=".9;.35;.9" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <text class="label" x="1000" y="44"  text-anchor="middle">plan</text>
+    <text class="label" x="1104" y="155">act</text>
+    <text class="label" x="1000" y="266" text-anchor="middle">observe</text>
+    <text class="label" x="896"  y="155" text-anchor="end">learn</text>
+    <text class="label" x="1000" y="176" text-anchor="middle" opacity=".7">goal</text>
+  </g>
+</svg>
