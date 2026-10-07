@@ -1,14 +1,61 @@
-# 💫 About Me:
-I’m an aspiring software engineer interested in agentic workflows, AI automation, and intelligent systems. I’m currently developing my AWS and cloud-engineering skills while building practical AI-powered projects. Beyond tech, I enjoy photography, soccer, and racing games.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Percy Amoani: I build AI agents that handle the busywork, and I'm learning the cloud to run them well." src="assets/header-light.svg" width="100%">
+</picture>
 
+<p align="center">
+  <a href="https://linkedin.com/in/percy-amoani">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/percy_o_amoani">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://instagram.com/_percy.nk">Instagram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:percyamoani21@gmail.com">Email</a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_percy.nk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/percy-amoani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/percy_o_amoani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:percyamoani21@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=percy-piz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=percy-piz&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I'm an aspiring software engineer chasing one question: **what happens when software can decide its own next step?**
+That question led me to agentic workflows and AI automation, and then to the cloud, because an agent is only as good as the system it runs on.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### The story so far
+
+`01` &nbsp;**Foundations.** C++, Java, Python. Learning how programs think.<br>
+`02` &nbsp;**Automation.** Teaching programs to act: agentic workflows, LLM tooling, small AI projects that solve real problems.<br>
+`03` &nbsp;**Infrastructure** *(now)*. Building my AWS and cloud-engineering skills so what I make runs reliably, not just on my laptop.<br>
+`04` &nbsp;**Next.** Intelligent systems that people can actually trust.
+
+The pinned repos below are where the newest chapter is being written.
+
+### Off the keyboard
+
+📷 &nbsp;**Photography** taught me to notice the details most people scroll past.<br>
+⚽ &nbsp;**Soccer** reminds me that the best systems, like the best teams, work because every part knows its role.<br>
+🏎️ &nbsp;**Racing games** are where I learned to love shaving off milliseconds.
+
+### Toolbox
+
+<a href="https://github.com/percy-piz?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,r,solidity,latex,md&perline=10" alt="Python, C++, Java, JavaScript, HTML, CSS, R, Solidity, LaTeX, Markdown" height="40">
+</a>
+<br>
+<a href="https://github.com/percy-piz?tab=repositories">
+  <img src="https://skillicons.dev/icons?i=aws,flask,supabase,jquery&perline=10" alt="AWS, Flask, Supabase, jQuery" height="40">
+</a>
+
+<details>
+<summary><b>By the numbers</b></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=percy-piz&hide_border=true&background=0D1117&ring=F5A524&fire=F5A524&currStreakLabel=F5A524&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=7D8590&stroke=30363D">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=percy-piz&hide_border=true&background=FFFFFF&ring=C2410C&fire=C2410C&currStreakLabel=C2410C&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=59636E&stroke=D0D7DE">
+</picture>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=percy-piz&layout=compact&hide_border=true&bg_color=0D1117&title_color=F5A524&text_color=E6EDF3">
+  <img alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=percy-piz&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=C2410C&text_color=1F2328">
+</picture>
+
+</details>
+
+<br>
+
+<p align="center"><sub>Always up for a conversation about agents, the cloud, or a good lap time.</sub></p>
