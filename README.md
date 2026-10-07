@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Percy Amoani: I build AI agents that handle the busywork, and I'm learning the cloud to run them well." src="assets/header-light.svg" width="100%">
+  <img alt="Percy Amoani: computer science student and aspiring software engineer who loves building with AI." src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -27,25 +27,18 @@
 
 <br>
 
-I'm an aspiring software engineer chasing one question: **what happens when software can decide its own next step?**
-That question led me to agentic workflows and AI automation, and then to the cloud, because an agent is only as good as the system it runs on.
+Hi, I'm Percy 👋
 
-### The story so far
+These days I'm mostly experimenting with AI agents and automation, and learning AWS so I can actually deploy the things I build.
 
-`01` &nbsp;**Foundations.** C++, Java, Python. Learning how programs think.<br>
-`02` &nbsp;**Automation.** Teaching programs to act: agentic workflows, LLM tooling, small AI projects that solve real problems.<br>
-`03` &nbsp;**Infrastructure** *(now)*. Building my AWS and cloud-engineering skills so what I make runs reliably, not just on my laptop.<br>
-`04` &nbsp;**Next.** Intelligent systems that people can actually trust.
+- 🎓 Studying computer science
+- 🤖 Building small AI projects and automations
+- ☁️ Learning AWS and cloud engineering
+- 📷 Off the screen: photography, soccer and racing games
 
-The pinned repos below are where the newest chapter is being written.
+My pinned repos below are a good place to see what I've been working on.
 
-### Off the keyboard
-
-📷 &nbsp;**Photography** taught me to notice the details most people scroll past.<br>
-⚽ &nbsp;**Soccer** reminds me that the best systems, like the best teams, work because every part knows its role.<br>
-🏎️ &nbsp;**Racing games** are where I learned to love shaving off milliseconds.
-
-### Toolbox
+### Tools I use
 
 <a href="https://github.com/percy-piz?tab=repositories">
   <img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css,r,solidity,latex,md&perline=10" alt="Python, C++, Java, JavaScript, HTML, CSS, R, Solidity, LaTeX, Markdown" height="40">
@@ -56,7 +49,7 @@ The pinned repos below are where the newest chapter is being written.
 </a>
 
 <details>
-<summary><b>By the numbers</b></summary>
+<summary><b>GitHub stats</b></summary>
 <br>
 
 <picture>
@@ -73,4 +66,4 @@ The pinned repos below are where the newest chapter is being written.
 
 <br>
 
-<p align="center"><sub>Always up for a conversation about agents, the cloud, or a good lap time.</sub></p>
+<p align="center"><sub>Always happy to connect, so feel free to reach out.</sub></p>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Percy Amoani: building AI agents and the cloud systems that run them">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Percy Amoani: computer science student and aspiring software engineer who loves building with AI">
   <style>
     .bg     { fill: #FFFFFF; }
     .frame  { fill: none; stroke: #D0D7DE; }
@@ -23,8 +23,8 @@
     <rect class="accent cursor" x="287" y="77" width="10" height="19"/>
   </g>
   <text x="62" y="164" class="sans ink" font-size="64" font-weight="700" letter-spacing="-1.5">Percy Amoani</text>
-  <text x="64" y="210" class="sans muted" font-size="22">I build AI agents that handle the busywork,</text>
-  <text x="64" y="240" class="sans muted" font-size="22">and I'm learning the cloud to run them <tspan class="accent">well</tspan>.</text>
+  <text x="64" y="210" class="sans muted" font-size="22">Computer science student and aspiring software engineer.</text>
+  <text x="64" y="240" class="sans muted" font-size="22">I love building with <tspan class="accent">AI</tspan> and turning ideas into things people use.</text>
 
   <!-- right: the agent loop -->
   <g>
