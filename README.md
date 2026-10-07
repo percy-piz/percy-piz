@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Percy Amoani: I build AI agents that handle the busywork, and I'm learning the cloud to run them well." src="assets/header-light.svg" width="100%">
+  <img alt="Percy Amoani: computer science student and aspiring software engineer who loves building with AI." src="assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <br>
 
-I'm an aspiring software engineer chasing one question: **what happens when software can decide its own next step?**
+I keep chasing one question: **what happens when software can decide its own next step?**
 That question led me to agentic workflows and AI automation, and then to the cloud, because an agent is only as good as the system it runs on.
 
 ### The story so far
