@@ -4,10 +4,25 @@
 </picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/percy-amoani">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://x.com/percy_o_amoani">X</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://instagram.com/_percy.nk">Instagram</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:percyamoani21@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/percy-amoani" title="LinkedIn"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/linkedin-dark.svg">
+    <img src="assets/icons/linkedin-light.svg" alt="LinkedIn" width="26" height="26">
+  </picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/percy_o_amoani" title="X"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/x-dark.svg">
+    <img src="assets/icons/x-light.svg" alt="X" width="26" height="26">
+  </picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/_percy.nk" title="Instagram"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/instagram-dark.svg">
+    <img src="assets/icons/instagram-light.svg" alt="Instagram" width="26" height="26">
+  </picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:percyamoani21@gmail.com" title="Email"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icons/email-dark.svg">
+    <img src="assets/icons/email-light.svg" alt="Email" width="26" height="26">
+  </picture></a>
 </p>
 
 <br>
